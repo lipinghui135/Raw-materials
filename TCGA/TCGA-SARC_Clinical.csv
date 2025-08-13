@@ -1,0 +1,262 @@
+"SampleID","age","gender","histology","tumor_depth","OS.time","OS"
+"TCGA-3B-A9HI","68","MALE","Liposarcoma:Dedifferentiated liposarcoma","[Unknown]",1521,0
+"TCGA-3B-A9HJ","68","MALE","Liposarcoma:Dedifferentiated liposarcoma","[Unknown]",1104,0
+"TCGA-3B-A9HL","67","MALE","Liposarcoma:Dedifferentiated liposarcoma","[Unknown]",599,1
+"TCGA-3B-A9HO","75","MALE","Liposarcoma:Dedifferentiated liposarcoma","[Unknown]",959,0
+"TCGA-3B-A9HP","57","FEMALE","Leiomyosarcoma","[Unknown]",1627,1
+"TCGA-3B-A9HQ","66","FEMALE","Leiomyosarcoma","[Unknown]",2085,0
+"TCGA-3B-A9HR","38","FEMALE","Leiomyosarcoma","[Unknown]",2694,1
+"TCGA-3B-A9HS","60","MALE","Leiomyosarcoma","[Unknown]",1366,1
+"TCGA-3B-A9HT","53","MALE","Leiomyosarcoma",NA,1665,0
+"TCGA-3B-A9HU","53","FEMALE","Leiomyosarcoma","[Unknown]",768,0
+"TCGA-3B-A9HV","48","FEMALE","Leiomyosarcoma","[Unknown]",437,1
+"TCGA-3B-A9HX","70","FEMALE","Leiomyosarcoma","[Unknown]",1303,0
+"TCGA-3B-A9HY","49","MALE","Leiomyosarcoma","Superficial",314,0
+"TCGA-3B-A9HZ","66","MALE","Leiomyosarcoma","[Unknown]",1170,0
+"TCGA-3B-A9I0","33","MALE","Leiomyosarcoma","[Unknown]",1096,0
+"TCGA-3B-A9I1","56","FEMALE","Leiomyosarcoma","[Unknown]",567,1
+"TCGA-3B-A9I3","62","MALE","Leiomyosarcoma","[Unknown]",808,0
+"TCGA-3R-A8YX","66","MALE","Liposarcoma:Dedifferentiated liposarcoma","[Unknown]",17,1
+"TCGA-DX-A1KU","82","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",427,1
+"TCGA-DX-A1KW","67","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",995,1
+"TCGA-DX-A1KX","67","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",2087,0
+"TCGA-DX-A1KY","66","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",391,1
+"TCGA-DX-A1KZ","66","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",1372,0
+"TCGA-DX-A1L0","58","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",564,1
+"TCGA-DX-A1L1","60","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",1649,1
+"TCGA-DX-A1L2","78","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",2586,0
+"TCGA-DX-A1L3","60","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",1020,1
+"TCGA-DX-A1L4","60","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",2036,0
+"TCGA-DX-A23R","55","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",2271,0
+"TCGA-DX-A23T","40","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",160,1
+"TCGA-DX-A23U","81","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",2324,1
+"TCGA-DX-A23V","57","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",2034,1
+"TCGA-DX-A23Y","80","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",191,1
+"TCGA-DX-A23Z","74","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",846,1
+"TCGA-DX-A240","51","MALE","Liposarcoma:Dedifferentiated liposarcoma","Superficial",1834,0
+"TCGA-DX-A2IZ","60","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",261,0
+"TCGA-DX-A2J0","61","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",295,1
+"TCGA-DX-A2J1","53","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",2901,0
+"TCGA-DX-A2J4","60","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",2408,0
+"TCGA-DX-A3LS","78","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",275,1
+"TCGA-DX-A3LT","62","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",1492,0
+"TCGA-DX-A3LU","60","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",2641,0
+"TCGA-DX-A3LW","43","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",4150,0
+"TCGA-DX-A3LY","66","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",1017,0
+"TCGA-DX-A3M1","79","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",1359,0
+"TCGA-DX-A3M2","59","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",1055,0
+"TCGA-DX-A3U5","52","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",969,0
+"TCGA-DX-A3U6","63","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",1088,1
+"TCGA-DX-A3U7","67","MALE","Leiomyosarcoma","Superficial",1552,1
+"TCGA-DX-A3U8","43","MALE","Leiomyosarcoma","Deep",138,1
+"TCGA-DX-A3U9","84","MALE","Leiomyosarcoma","Deep",456,1
+"TCGA-DX-A3UA","47","FEMALE","Leiomyosarcoma","Deep",325,1
+"TCGA-DX-A3UB","54","MALE","Leiomyosarcoma","Deep",2247,0
+"TCGA-DX-A3UC","37","FEMALE","Leiomyosarcoma","Deep",2085,0
+"TCGA-DX-A3UD","56","MALE","Leiomyosarcoma","Deep",1534,0
+"TCGA-DX-A3UE","66","FEMALE","Leiomyosarcoma","Deep",1061,1
+"TCGA-DX-A3UF","65","FEMALE","Leiomyosarcoma","Deep",2599,1
+"TCGA-DX-A48J","44","MALE","Leiomyosarcoma","Deep",296,1
+"TCGA-DX-A48K","65","MALE","Leiomyosarcoma","Deep",1399,0
+"TCGA-DX-A48L","49","FEMALE","Leiomyosarcoma","Deep",738,1
+"TCGA-DX-A48N","47","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",1073,0
+"TCGA-DX-A48O","63","FEMALE","Leiomyosarcoma","Deep",1605,0
+"TCGA-DX-A48P","54","FEMALE","Leiomyosarcoma","Deep",1400,0
+"TCGA-DX-A48R","41","MALE","Leiomyosarcoma","Deep",805,0
+"TCGA-DX-A48U","57","MALE","Leiomyosarcoma","Deep",3310,0
+"TCGA-DX-A48V","78","MALE","Leiomyosarcoma","Deep",1820,0
+"TCGA-DX-A6B7","55","MALE","Leiomyosarcoma","Deep",1143,0
+"TCGA-DX-A6B8","80","MALE","Leiomyosarcoma","Deep",485,1
+"TCGA-DX-A6B9","45","FEMALE","Leiomyosarcoma","Deep",1138,0
+"TCGA-DX-A6BA","53","FEMALE","Leiomyosarcoma","Deep",2515,0
+"TCGA-DX-A6BB","74","MALE","Leiomyosarcoma","Deep",1105,0
+"TCGA-DX-A6BE","77","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",881,0
+"TCGA-DX-A6BF","82","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",972,0
+"TCGA-DX-A6BG","51","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",1121,0
+"TCGA-DX-A6BH","34","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",821,0
+"TCGA-DX-A6BK","85","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",492,1
+"TCGA-DX-A6YQ","86","FEMALE","Myxofibrosarcoma","Deep",93,1
+"TCGA-DX-A6YR","75","MALE","Myxofibrosarcoma","Deep",1247,0
+"TCGA-DX-A6YS","61","MALE","Myxofibrosarcoma","Deep",2381,0
+"TCGA-DX-A6YT","31","FEMALE","Myxofibrosarcoma","Superficial",2044,0
+"TCGA-DX-A6YU","50","FEMALE","Myxofibrosarcoma","Deep",1045,0
+"TCGA-DX-A6YV","74","MALE","Myxofibrosarcoma","Deep",1536,1
+"TCGA-DX-A6YX","68","FEMALE","Myxofibrosarcoma","Superficial",513,1
+"TCGA-DX-A6YZ","59","MALE","Myxofibrosarcoma","Superficial",2625,0
+"TCGA-DX-A6Z0","78","FEMALE","Myxofibrosarcoma","Deep",1953,1
+"TCGA-DX-A6Z2","82","FEMALE","Leiomyosarcoma","Deep",2830,0
+"TCGA-DX-A7EF","88","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",570,1
+"TCGA-DX-A7EI","78","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",1049,1
+"TCGA-DX-A7EL","56","FEMALE","Leiomyosarcoma","Deep",2291,0
+"TCGA-DX-A7EM","61","MALE","Leiomyosarcoma","Deep",1892,0
+"TCGA-DX-A7EN","53","FEMALE","Leiomyosarcoma","Deep",923,0
+"TCGA-DX-A7EO","20","FEMALE","Synovial sarcoma","Deep",4627,0
+"TCGA-DX-A7EQ","72","MALE","Synovial sarcoma","Deep",897,1
+"TCGA-DX-A7ER","69","MALE","Synovial sarcoma","Deep",1466,1
+"TCGA-DX-A7ES","50","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",610,0
+"TCGA-DX-A7ET","71","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",463,0
+"TCGA-DX-A7EU","79","FEMALE","Myxofibrosarcoma","Deep",721,0
+"TCGA-DX-A8BG","83","FEMALE","Myxofibrosarcoma","Deep",546,0
+"TCGA-DX-A8BH","86","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",439,1
+"TCGA-DX-A8BJ","76","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",284,1
+"TCGA-DX-A8BK","61","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",1885,0
+"TCGA-DX-A8BL","59","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",1373,0
+"TCGA-DX-A8BM","60","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",1456,0
+"TCGA-DX-A8BN","78","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",1161,0
+"TCGA-DX-A8BO","67","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",1240,0
+"TCGA-DX-A8BP","85","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",428,0
+"TCGA-DX-A8BQ","63","MALE","Undifferentiated Pleomorphic Sarcoma","Superficial",1579,0
+"TCGA-DX-A8BR","63","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",4573,0
+"TCGA-DX-A8BS","68","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",850,1
+"TCGA-DX-A8BT","63","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",1230,0
+"TCGA-DX-A8BU","58","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",1116,1
+"TCGA-DX-A8BV","57","MALE","Myxofibrosarcoma","Deep",1845,1
+"TCGA-DX-A8BX","52","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",591,1
+"TCGA-DX-A8BZ","78","FEMALE","Leiomyosarcoma","Deep",200,1
+"TCGA-DX-AATS","72","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",35,1
+"TCGA-DX-AB2E","60","MALE","Myxofibrosarcoma","Deep",541,0
+"TCGA-DX-AB2F","76","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",365,0
+"TCGA-DX-AB2G","36","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",478,0
+"TCGA-DX-AB2H","80","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",482,0
+"TCGA-DX-AB2J","71","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",1235,1
+"TCGA-DX-AB2L","35","MALE","Myxofibrosarcoma","Deep",2007,0
+"TCGA-DX-AB2O","78","FEMALE","Undifferentiated Pleomorphic Sarcoma","Superficial",2619,0
+"TCGA-DX-AB2P","79","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",367,1
+"TCGA-DX-AB2Q","65","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",2030,0
+"TCGA-DX-AB2S","53","FEMALE","Myxofibrosarcoma","Deep",280,0
+"TCGA-DX-AB2T","54","FEMALE","Myxofibrosarcoma","Deep",2369,0
+"TCGA-DX-AB2V","81","MALE","Myxofibrosarcoma","Superficial",3156,0
+"TCGA-DX-AB2W","62","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",3238,0
+"TCGA-DX-AB2X","73","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",404,1
+"TCGA-DX-AB2Z","87","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",1092,0
+"TCGA-DX-AB30","53","FEMALE","Myxofibrosarcoma","Deep",695,1
+"TCGA-DX-AB32","51","MALE","Myxofibrosarcoma","Deep",3102,0
+"TCGA-DX-AB35","65","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",928,0
+"TCGA-DX-AB36","86","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",1168,1
+"TCGA-DX-AB37","73","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",2575,1
+"TCGA-DX-AB3A","80","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",978,1
+"TCGA-DX-AB3B","28","FEMALE","Synovial sarcoma","Deep",1548,0
+"TCGA-DX-AB3C","27","MALE","Synovial sarcoma","Deep",2169,0
+"TCGA-FX-A2QS","61","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",1495,0
+"TCGA-FX-A3NJ","54","MALE","Leiomyosarcoma","Deep",947,0
+"TCGA-FX-A3NK","53","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",505,0
+"TCGA-FX-A3RE","65","FEMALE","Leiomyosarcoma","[Unknown]",660,0
+"TCGA-FX-A3TO","87","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",618,0
+"TCGA-FX-A48G","56","FEMALE","Leiomyosarcoma","Deep",605,1
+"TCGA-FX-A76Y","49","FEMALE","Leiomyosarcoma","Deep",471,0
+"TCGA-FX-A8OO","31","FEMALE","Synovial sarcoma","Deep",245,1
+"TCGA-HB-A2OT","78","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",2057,0
+"TCGA-HB-A3L4","46","FEMALE","Leiomyosarcoma","Deep",1061,1
+"TCGA-HB-A3YV","75","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",139,1
+"TCGA-HB-A43Z","58","FEMALE","Leiomyosarcoma","Deep",1126,0
+"TCGA-HB-A5W3","58","FEMALE","Leiomyosarcoma","Deep",384,1
+"TCGA-HS-A5N7","67","FEMALE","Leiomyosarcoma","Superficial",1013,0
+"TCGA-HS-A5N8","69","FEMALE","Leiomyosarcoma","Deep",22,1
+"TCGA-HS-A5N9","58","FEMALE","Leiomyosarcoma","Deep",1585,0
+"TCGA-HS-A5NA","65","FEMALE","Leiomyosarcoma","Deep",298,0
+"TCGA-IE-A3OV","42","MALE","Leiomyosarcoma","Deep",2448,1
+"TCGA-IE-A4EH","35","FEMALE","Leiomyosarcoma","[Unknown]",819,0
+"TCGA-IE-A4EI","67","FEMALE","Leiomyosarcoma","[Unknown]",594,0
+"TCGA-IE-A4EJ","84","FEMALE","Undifferentiated Pleomorphic Sarcoma","[Unknown]",98,0
+"TCGA-IE-A4EK","54","MALE","Leiomyosarcoma","[Unknown]",42,0
+"TCGA-IE-A6BZ","65","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",605,0
+"TCGA-IF-A3RQ","70","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",1129,1
+"TCGA-IF-A4AJ","80","MALE","Leiomyosarcoma","Deep",767,1
+"TCGA-IF-A4AK","82","FEMALE","Leiomyosarcoma","Deep",1590,0
+"TCGA-IS-A3K6","55","FEMALE","Leiomyosarcoma",NA,858,1
+"TCGA-IS-A3K7","63","FEMALE","Leiomyosarcoma",NA,5204,0
+"TCGA-IS-A3K8","44","FEMALE","Leiomyosarcoma",NA,4845,0
+"TCGA-IS-A3KA","73","FEMALE","Leiomyosarcoma",NA,413,1
+"TCGA-IW-A3M4","48","FEMALE","Leiomyosarcoma","Deep",2615,0
+"TCGA-IW-A3M5","76","FEMALE","Leiomyosarcoma",NA,180,1
+"TCGA-IW-A3M6","59","FEMALE","Leiomyosarcoma","Deep",688,0
+"TCGA-JV-A5VE","60","FEMALE","Leiomyosarcoma","Deep",499,0
+"TCGA-JV-A5VF","69","FEMALE","Leiomyosarcoma","Deep",32,1
+"TCGA-JV-A75J","43","FEMALE","Leiomyosarcoma","Deep",119,1
+"TCGA-K1-A3PN","64","FEMALE","Leiomyosarcoma","Deep",3080,0
+"TCGA-K1-A3PO","42","MALE","Leiomyosarcoma","Deep",1622,0
+"TCGA-K1-A42W","65","FEMALE","Leiomyosarcoma","[Unknown]",1891,0
+"TCGA-K1-A42X","62","FEMALE","Leiomyosarcoma","[Unknown]",3765,0
+"TCGA-K1-A6RT","48","MALE","Leiomyosarcoma","Superficial",528,0
+"TCGA-K1-A6RU","66","FEMALE","Myxofibrosarcoma","Deep",711,1
+"TCGA-K1-A6RV","67","MALE","Leiomyosarcoma","Deep",158,0
+"TCGA-KD-A5QS","55","FEMALE","Leiomyosarcoma","[Unknown]",1941,1
+"TCGA-KD-A5QT","69","FEMALE","Leiomyosarcoma","[Unknown]",499,0
+"TCGA-KD-A5QU","41","FEMALE","Leiomyosarcoma","[Unknown]",1073,1
+"TCGA-KF-A41W","71","FEMALE","Leiomyosarcoma","[Unknown]",356,0
+"TCGA-LI-A67I","75","FEMALE","Myxofibrosarcoma","Deep",922,0
+"TCGA-LI-A9QH","72","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",540,1
+"TCGA-MB-A5Y8","60","FEMALE","Undifferentiated Pleomorphic Sarcoma","[Unknown]",773,0
+"TCGA-MB-A5Y9","90","MALE","Undifferentiated Pleomorphic Sarcoma","[Unknown]",0,0
+"TCGA-MB-A5YA","63","MALE","Leiomyosarcoma","[Unknown]",15,0
+"TCGA-MB-A8JK","49","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",661,0
+"TCGA-MB-A8JL","53","FEMALE","Leiomyosarcoma","Superficial",600,0
+"TCGA-MJ-A68H","57","FEMALE","Leiomyosarcoma","Deep",456,0
+"TCGA-MJ-A68J","55","FEMALE","Myxofibrosarcoma","Deep",547,0
+"TCGA-MJ-A850","28","MALE","Synovial sarcoma","Deep",681,0
+"TCGA-MO-A47P","37","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","[Unknown]",352,0
+"TCGA-MO-A47R","75","FEMALE","Leiomyosarcoma","[Unknown]",318,1
+"TCGA-N1-A6IA","41","FEMALE","Leiomyosarcoma","Superficial",224,1
+"TCGA-PC-A5DK","63","MALE","Leiomyosarcoma","[Unknown]",3740,0
+"TCGA-PC-A5DL","67","MALE","Leiomyosarcoma","[Unknown]",1142,1
+"TCGA-PC-A5DM","73","MALE","Leiomyosarcoma","[Unknown]",193,1
+"TCGA-PC-A5DN","77","FEMALE","Leiomyosarcoma","[Unknown]",1175,1
+"TCGA-PC-A5DO","59","FEMALE","Leiomyosarcoma","[Unknown]",2464,1
+"TCGA-PC-A5DP","72","FEMALE","Leiomyosarcoma","[Unknown]",550,1
+"TCGA-PT-A8TR","57","FEMALE","Leiomyosarcoma","[Unknown]",813,0
+"TCGA-QC-A6FX","68","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",637,0
+"TCGA-QC-A7B5","75","MALE","Undifferentiated Pleomorphic Sarcoma","Superficial",398,0
+"TCGA-QC-AA9N","53","FEMALE","Undifferentiated Pleomorphic Sarcoma","Superficial",537,0
+"TCGA-QQ-A5V2","42","MALE","Undifferentiated Pleomorphic Sarcoma","Superficial",56,0
+"TCGA-QQ-A5V9","76","MALE","Undifferentiated Pleomorphic Sarcoma","[Unknown]",1424,1
+"TCGA-QQ-A5VA","60","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","[Unknown]",550,1
+"TCGA-QQ-A5VB","53","FEMALE","Leiomyosarcoma","Deep",1478,1
+"TCGA-QQ-A5VC","63","FEMALE","Leiomyosarcoma","Superficial",1092,0
+"TCGA-QQ-A5VD","52","MALE","Leiomyosarcoma","Superficial",1129,0
+"TCGA-QQ-A8VB","68","FEMALE","Malignant Peripheral Nerve Sheath Tumor","[Unknown]",5723,0
+"TCGA-QQ-A8VD","56","MALE","Desmoid/Aggressive fibromatosis","[Unknown]",3964,0
+"TCGA-QQ-A8VF","70","MALE","Leiomyosarcoma","[Unknown]",3406,0
+"TCGA-QQ-A8VG","52","MALE","Malignant Peripheral Nerve Sheath Tumor","Deep",1970,1
+"TCGA-QQ-A8VH","31","FEMALE","Malignant Peripheral Nerve Sheath Tumor","[Unknown]",320,1
+"TCGA-RN-A68Q","62","FEMALE","Malignant Peripheral Nerve Sheath Tumor","[Unknown]",22,0
+"TCGA-RN-AAAQ","52","MALE","Malignant Peripheral Nerve Sheath Tumor","Deep",510,0
+"TCGA-SG-A6Z4","47","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",576,0
+"TCGA-SG-A6Z7","44","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",118,1
+"TCGA-SG-A849","78","MALE","Undifferentiated Pleomorphic Sarcoma","Superficial",533,0
+"TCGA-SI-A71O","29","MALE","Malignant Peripheral Nerve Sheath Tumor","Deep",694,1
+"TCGA-SI-A71P","50","MALE","Malignant Peripheral Nerve Sheath Tumor","Deep",771,0
+"TCGA-SI-A71Q","34","FEMALE","Malignant Peripheral Nerve Sheath Tumor","Deep",996,0
+"TCGA-SI-AA8B","80","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",262,1
+"TCGA-SI-AA8C","20","FEMALE","Malignant Peripheral Nerve Sheath Tumor","Deep",597,0
+"TCGA-UE-A6QT","50","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",402,0
+"TCGA-UE-A6QU","90","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",0,0
+"TCGA-VT-A80G","66","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",326,0
+"TCGA-VT-A80J","49","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",796,0
+"TCGA-VT-AB3D","71","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",379,0
+"TCGA-WK-A8XO","66","FEMALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",363,1
+"TCGA-WK-A8XQ","57","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",146,1
+"TCGA-WK-A8XS","58","FEMALE","Leiomyosarcoma","Deep",2579,0
+"TCGA-WK-A8XT","40","FEMALE","Synovial sarcoma","Deep",1262,1
+"TCGA-WK-A8XX","70","MALE","Leiomyosarcoma","Deep",1164,1
+"TCGA-WK-A8XY","53","FEMALE","Leiomyosarcoma","Deep",1991,1
+"TCGA-WK-A8XZ","56","FEMALE","Leiomyosarcoma","Deep",1722,1
+"TCGA-WK-A8Y0","49","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",688,1
+"TCGA-WP-A9GB","59","FEMALE","Leiomyosarcoma","[Unknown]",261,1
+"TCGA-X2-A95T","49","FEMALE","Leiomyosarcoma","Superficial",1927,0
+"TCGA-X6-A7W8","89","MALE","Myxofibrosarcoma","Deep",24,1
+"TCGA-X6-A7WA","90","FEMALE","Leiomyosarcoma","Deep",0,0
+"TCGA-X6-A7WB","58","FEMALE","Leiomyosarcoma","Deep",550,1
+"TCGA-X6-A7WC","74","MALE","Leiomyosarcoma","Deep",1379,0
+"TCGA-X6-A7WD","63","FEMALE","Leiomyosarcoma","Deep",938,0
+"TCGA-X6-A8C2","56","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",1070,0
+"TCGA-X6-A8C3","59","FEMALE","Myxofibrosarcoma","Deep",583,0
+"TCGA-X6-A8C4","70","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",628,1
+"TCGA-X6-A8C5","63","FEMALE","Leiomyosarcoma","Deep",1547,0
+"TCGA-X6-A8C6","55","MALE","Myxofibrosarcoma","Deep",1067,1
+"TCGA-X6-A8C7","24","FEMALE","Synovial sarcoma","Deep",896,0
+"TCGA-X9-A971","52","FEMALE","Leiomyosarcoma","Deep",831,0
+"TCGA-X9-A973","55","MALE","Undifferentiated Pleomorphic Sarcoma","Deep",1108,0
+"TCGA-Z4-A8JB","24","FEMALE","Desmoid/Aggressive fibromatosis","Deep",133,0
+"TCGA-Z4-A9VC","37","MALE","Liposarcoma:Dedifferentiated liposarcoma","Deep",407,0
+"TCGA-Z4-AAPF","35","FEMALE","Synovial sarcoma","Superficial",485,0
+"TCGA-Z4-AAPG","64","FEMALE","Undifferentiated Pleomorphic Sarcoma","Deep",486,0
